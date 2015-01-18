@@ -1,0 +1,17 @@
+@import url(http://fonts.googleapis.com/css?family=Bevan|Open+Sans);
+
+.title{
+	padding-top: 200px;
+	font-family: 'Bevan';
+	font-size: 200px;
+	text-align: center;
+
+
+}
+
+.subtext{
+	font-family: 'Open Sans';
+	font-size: 40px;
+	text-align: center;
+	/*color: #EBEBEB;*/
+}
